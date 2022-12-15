@@ -11,7 +11,7 @@
       "imagePath": "tomorrowland.png",
       "details": {
         "Parking": false,
-        "Speciale parking hulpbehoefden": true,
+        "SpecialeParkingHulpbehoefden": true,
         "Foodshops": false
       }
     },
@@ -26,7 +26,7 @@
       "imagePath": "rockwerchter.png",
       "details": {
         "Parking": true,
-        "Speciale parking hulpbehoefden": false,
+        "SpecialeParkingHulpbehoefden": false,
         "Foodshops": false
       }
     },
@@ -41,7 +41,7 @@
       "imagePath": "pukkelpop.png",
       "details": {
         "Parking": true,
-        "Speciale parking hulpbehoefden": true,
+        "SpecialeParkingHulpbehoefden": true,
         "Foodshops": true
       }
     },
@@ -56,7 +56,7 @@
       "imagePath": "graspop.png",
       "details": {
         "Parking": false,
-        "Speciale parking hulpbehoefden": false,
+        "SpecialeParkingHulpbehoefden": false,
         "Foodshops": false
       }
     }
